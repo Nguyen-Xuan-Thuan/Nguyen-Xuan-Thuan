@@ -87,8 +87,8 @@
 
 <br>
 
-<h2 align="center">📖 My main course: [FULL STACK] MERN ADVANCED 📖</h2>
-<br>
+<!-- <h2 align="center">📖 My main course: [FULL STACK] MERN ADVANCED 📖</h2> -->
+<!-- <br>
 <p>
   <a href="https://youtu.be/9M1ZeMip40k?si=AorUOYNnPL5Evr26" target="_blank">
     <strong>☕ [FULL STACK] MERN ADVANCED • Lớp học lập trình nâng cao thực tế để đi làm ✍ | ReactJS, NodeJS, ExpressJS, MongoDB | TrungQuanDev</strong>
@@ -107,7 +107,7 @@
 </p>
 <a href="https://youtube.com/@trungquandev" target="_blank">
   <img src="images/ytb-lo-trinh-hoc-lap-trinh-web-va-gioi-thieu-kenh-trungquandev-mot-lap-trinh-vien.png" width="1200" alt="trungquandev-mot-lap-trinh-vien" />
-</a>
+</a> -->
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
